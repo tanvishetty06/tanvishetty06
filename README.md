@@ -15,6 +15,6 @@
 
 ## Projects
 - Password Generator (Python)
-- Number Guessing Game
+- Student marks analyzer
 - Simple Calculator
 
