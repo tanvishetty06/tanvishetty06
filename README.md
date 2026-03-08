@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tanvi 👋
 
-<!--
-**tanvishetty06/tanvishetty06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student learning programming  
+💻 Currently learning Python  
+🚀 Interested in AI, Data Science and Technology  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Problem Solving
+- Basic Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Python Programming
+- Basic Algorithms
+
+## Projects
+- Password Generator (Python)
+- Number Guessing Game
+- Simple Calculator
+
